@@ -61,9 +61,8 @@ THE UNIVERSITY OF CALIFORNIA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, B
 
 For more information, visit:
 
-- PostgreSQL License: https://www.postgresql.org/about/licence
-
 - BSD 3-Clause License: https://opensource.org/license/bsd-3-clause
+- PostgreSQL License: https://www.postgresql.org/about/licence
 
 # <br />
 
