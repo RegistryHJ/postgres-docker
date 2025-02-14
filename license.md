@@ -29,7 +29,7 @@ Everyone is permitted to use, copy, modify, and distribute this software under t
 
 <br />
  
-## License Terms
+## Original License Terms
 
 This software is licensed under the PostgreSQL License. Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that all copies include the above copyright notice and the complete terms of this license.
 The software is provided "as is" without warranty of any kind. In no event shall the copyright holders be liable for any damages arising from its use. The copyright holders specifically disclaim all warranties and have no obligations to provide maintenance, support, updates, enhancements, or modifications.
